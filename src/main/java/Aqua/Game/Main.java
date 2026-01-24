@@ -80,7 +80,7 @@ public class Main extends GameApplication {
         if (gameOver)
             return;
 
-        // ===== movimiento jugador =====
+
         double dx = 0;
         double dy = 0;
 
@@ -94,7 +94,7 @@ public class Main extends GameApplication {
 
         player.setPosition(newX, newY);
 
-        // ===== mover balas + colisión =====
+
         Iterator<Entity> it = bullets.iterator();
         while (it.hasNext()) {
             Entity bullet = it.next();
@@ -102,7 +102,7 @@ public class Main extends GameApplication {
 
             bullet.translate(v.multiply(tpf));
 
-            // 💥 COLISIÓN REAL
+
             if (bullet.getBoundingBoxComponent()
                     .isCollidingWith(player.getBoundingBoxComponent())) {
 
@@ -110,7 +110,7 @@ public class Main extends GameApplication {
                 return;
             }
 
-            // eliminar fuera de pantalla
+
             if (bullet.getX() < -20 || bullet.getX() > getAppWidth() + 20
                     || bullet.getY() < -20 || bullet.getY() > getAppHeight() + 20) {
 
@@ -121,9 +121,6 @@ public class Main extends GameApplication {
         }
     }
 
-    // =====================
-    // GAME FLOW
-    // =====================
 
     private void playerDies() {
         gameOver = true;
@@ -162,9 +159,6 @@ public class Main extends GameApplication {
         startEnemyShooting();
     }
 
-    // =====================
-    // SPAWNS
-    // =====================
 
     private void spawnPlayer() {
         player = entityBuilder()
@@ -180,9 +174,6 @@ public class Main extends GameApplication {
                 .buildAndAttach();
     }
 
-    // =====================
-    // DISPAROS
-    // =====================
 
     private void startEnemyShooting() {
         run(() -> {
