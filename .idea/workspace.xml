@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ParkStats2d:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c62aa9e3-edb4-4e97-a964-16e977944297" name="full" comment="subir juego.">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ParkStats2d_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FXGL-24-ene.-2026-14.14.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FXGL-24-ene.-2026-14.15.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FXGL-24-ene.-2026-14.15.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FXGL-24-ene.-2026-14.19.23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FXGL-24-ene.-2026-14.30.30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aqua/Game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aqua/Game/Main.java" afterDir="false" />
+    </list>
+    <list id="398ced97-1df9-4a58-bd5b-42e59abbd5df" name="Changes" comment="reiniciando" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AquaRekuHoshino&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="da9ed0c7-84e0-4944-acd0-0db09e36672d" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AquaRekuHoshino/From-top2DR.git&quot;,
+    &quot;accountId&quot;: &quot;da9ed0c7-84e0-4944-acd0-0db09e36672d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38gBr5sc2y0ayY4GRNXIbdbDjjX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/projectos/ParkStats2d",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\projectos\ParkStats2d\src\main\resources" />
+      <recent name="C:\Users\HP\Desktop\projectos\ParkStats2d\src\main\resources\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HP\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398ced97-1df9-4a58-bd5b-42e59abbd5df" name="Changes" comment="" />
+      <changelist id="c62aa9e3-edb4-4e97-a964-16e977944297" name="full" comment="" />
+      <created>1769211531481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769211531481</updated>
+    </task>
+    <task id="LOCAL-00001" summary="se ha arreglado bugs">
+      <option name="closed" value="true" />
+      <created>1769289643026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769289643026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambiando la rama del proyecto.">
+      <option name="closed" value="true" />
+      <created>1769290159435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769290159435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="se ha arreglado bugs" />
+    <MESSAGE value="cambiando la rama del proyecto." />
+    <MESSAGE value="reiniciando" />
+    <option name="LAST_COMMIT_MESSAGE" value="reiniciando" />
+  </component>
+</project>
